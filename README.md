@@ -1,7 +1,10 @@
 # AI-Driven Incident Management System
 
 <img width="500" alt="Screenshot 2025-06-13 at 3 50 06 PM" src="https://github.com/user-attachments/assets/000312e9-5881-4089-911d-87bd60dbd9ad" />
-
+<img width="500" alt="Screenshot 2025-06-13 at 3 50 22 PM" src="https://github.com/user-attachments/assets/f75b2d39-b7e0-467d-8266-14cd0b0c1891" />
+<img width="500" alt="Screenshot 2025-06-13 at 3 50 37 PM" src="https://github.com/user-attachments/assets/cd044a35-d536-412c-a09f-2d73fcd11a52" />
+<img width="500" alt="Screenshot 2025-06-13 at 3 50 48 PM" src="https://github.com/user-attachments/assets/8a5c63fd-200e-4df8-8b5e-6a809ccdf849" />
+<img width="500" alt="Screenshot 2025-06-13 at 3 50 59 PM" src="https://github.com/user-attachments/assets/fd42fed5-13fe-49d1-b466-e48cf41e9cf7" />
 
 A comprehensive work sample demonstrating the design and implementation of an AI-assisted incident response system. This project includes a Product Requirements Document (PRD), Design Document, and Front-End prototype for an automated incident management workflow.
 
